@@ -1,0 +1,47 @@
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\NinuxeCortes.exe
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\NinuxeCortes.deps.json
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\NinuxeCortes.runtimeconfig.json
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\NinuxeCortes.dll
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\NinuxeCortes.pdb
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\MediaInfo.dll
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\MediaInfo.DotNetWrapper.dll
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\MediaToolkit.dll
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\MetadataExtractor.dll
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\XmpCore.dll
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.csproj.AssemblyReference.cache
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.csproj.GenerateResource.cache
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.AssemblyInfoInputs.cache
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.AssemblyInfo.cs
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.csproj.CoreCompileInputs.cache
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.csproj.CopyComplete
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.dll
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\refint\NinuxeCortes.dll
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.pdb
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.genruntimeconfig.cache
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\ref\NinuxeCortes.dll
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.Properties.Resources.resources
+G:\Projetos Novos - Visual Studio\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.Form1.resources
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\NinuxeCortes.exe
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\NinuxeCortes.deps.json
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\NinuxeCortes.runtimeconfig.json
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\NinuxeCortes.dll
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\NinuxeCortes.pdb
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\MediaInfo.dll
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\MediaInfo.DotNetWrapper.dll
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\MetadataExtractor.dll
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\bin\Release\net6.0-windows\XmpCore.dll
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.csproj.AssemblyReference.cache
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.Form1.resources
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.Properties.Resources.resources
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.csproj.GenerateResource.cache
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.AssemblyInfoInputs.cache
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.AssemblyInfo.cs
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.csproj.CoreCompileInputs.cache
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.csproj.CopyComplete
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.dll
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\refint\NinuxeCortes.dll
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.pdb
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\NinuxeCortes.genruntimeconfig.cache
+G:\Projetos_VS\NinuxeCortes\NinuxeCortes\NinuxeCortes\obj\Release\net6.0-windows\ref\NinuxeCortes.dll
