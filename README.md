@@ -6,6 +6,7 @@ Use a vontade e contribua com o que quiser.
 ## BIBLIOTECA NECESSÁRIA FFMPEG-6.1.1
 
 DOWNLOAD: https://ffmpeg.org/download.html
+Cole o o "ffmpeg-6.1.1-full_build" na raiz.
 
 -
 
